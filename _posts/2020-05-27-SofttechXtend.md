@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+Github is the very usfull for SofttecXtend
 Use the left arrow to go back!
